@@ -73,7 +73,7 @@ export default function About() {
                     align="center" 
                     color="textPrimary">
                     <Box fontWeight="fontWeightBold" style={{padding: "0px 0px 30px"}} >
-                        About Us
+                        About Ginx
                     </Box>
                     </Typography>
                 </Container>
